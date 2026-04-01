@@ -1,0 +1,15 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "tea",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
